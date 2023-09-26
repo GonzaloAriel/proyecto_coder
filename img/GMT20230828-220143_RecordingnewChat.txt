@@ -1,0 +1,429 @@
+01:14:31	Fabiana Coronel:	Guaaaaaaaaaaaaaauuu
+01:14:31	Antonella Diaz:	buenasss
+01:14:32	Lucas Oñate:	Traiga iphones
+01:14:37	Lucas Oñate:	jajajaja
+01:14:38	Facundo Riquelme:	Reacted to "jajajaja" with 😂
+01:14:39	Fabiana Coronel:	Jajajajajaja
+01:14:40	Pablo Moglia:	traiga dolares
+01:14:41	Pablo Moglia:	XD
+01:14:45	Patricio Beccaría:	Reacted to "traiga dolares" with 😂
+01:14:45	Fabiana Coronel:	DOLARES
+01:14:47	Fabiana Coronel:	Jajajajajajaja
+01:15:01	Gaston Rogelio Esteban:	ropa profe
+01:15:09	Lucas Oñate:	Un teclado ducky =)
+01:15:13	Lucas Oñate:	El que convierte no se divierte
+01:15:14	Fabiana Coronel:	Y es otra cosa jajaja
+01:15:27	Tomas Gentilezza:	hola buenasss
+01:15:29	Fabiana Coronel:	Una silla gamer profe que se yo algo jajajajaja
+01:15:39	Gaston Rogelio Esteban:	complicado xD
+01:15:40	Fabiana Coronel:	JAJAJAJAJ, ni hablar
+01:17:03	[Tutor] Lucas Silva:	Buenas buenas!
+01:21:37	Patricio Beccaría:	puede enviarlo de nuevo profe?
+01:22:19	Alan Bensi [TUTOR]:	Buenas a todos! Como andan?? Disculpen la demora
+01:22:35	Gaston Rogelio Esteban:	buenas buenas :D:D
+01:22:37	Ángeles Maldonado:	Traten de leer la documentación en ingles asi se van acostumbrando
+01:22:39	Alan Bensi [TUTOR]:	=)
+01:23:28	Ailen Ramirez-855761:	Buenas!
+01:24:03	Marcos Javier Rover Genez:	Reacted to "Traten de leer la do..." with 👍
+01:24:55	[Tutora] Ángeles Maldonado:	Los que están bajo mi tutoria y les pedi ree-entrega y se le cerró háblenme por privado. Por el chat de la plataforma (miren las notificaciones de la plataforma)
+01:27:20	Andres Calafat:	porque el código lee de abajo para arriba, verdad?
+01:27:23	Alan Bensi [TUTOR]:	FUNDAMENTAL que el link de Bootstrap quede arriba y el nuestro abajo
+01:27:29	Marcos Javier Rover Genez:	Yo siempre los pongo al revés jajajajaja
+01:27:37	Alan Bensi [TUTOR]:	Después van a tener millones de dolores de cabeza para trabajar los estilos
+01:27:42	Alan Bensi [TUTOR]:	Exacto Andres
+01:27:57	[Tutora] Ángeles Maldonado:	Replying to "FUNDAMENTAL que el l..."
+
+MUCHO MUY IMPORTANTE!
+01:27:57	Alan Bensi [TUTOR]:	Perdon, de arriba para abajo ****
+01:28:02	Marcos Javier Rover Genez:	Replying to "Después van a tener ..." 
+
+ Con razón! Jajajaj
+01:28:17	Alan Bensi [TUTOR]:	Al revés andres
+01:29:25	Maria Cecilia Marcon:	el link script src... debajo del header….va siempre tb?
+01:29:51	Alan Bensi [TUTOR]:	Nono, el script lo recomendable es ponerlo abajo de todo el HTML, justo antes del cierre del body
+01:30:00	Marcos Javier Rover Genez:	Reacted to "Nono, el script lo r..." with ❤️
+01:30:12	Alan Bensi [TUTOR]:	Para permitir que cargue primero todo nuestro HTML y después recién el script con la funcionalidad de bootstrap
+01:30:29	Maria Cecilia Marcon:	Reacted to "Nono, el script lo r..." with 👍
+01:30:54	Lucas Celse:	ese Word esta en algún lado profe?
+01:31:02	Fabiana Coronel:	Reacted to "Nono, el script lo r..." with 👍
+01:31:54	Patricio Beccaría:	Replying to "FUNDAMENTAL que el l..."
+
+no entiendo, con nuestro te referis al link de css?
+01:31:57	Lucas Celse:	gracias <3
+01:32:11	Damian Marquez:	Replying to "ese Word esta en alg..."
+
+cualquier cosa yo lo tengo
+01:32:16	Maria Cecilia Marcon:	Reacted to "MUCHO MUY IMPORTANTE..." with 👍
+01:32:41	[Tutora] Ángeles Maldonado:	Replying to "FUNDAMENTAL que el l..."
+
+@Patricio Beccaría el css
+01:32:58	[Tutora] Ángeles Maldonado:	Replying to "FUNDAMENTAL que el l..."
+
+siempre va antes del cierre del head
+01:33:03	[Tutora] Ángeles Maldonado:	Replying to "FUNDAMENTAL que el l..."
+
+el link de css
+01:33:12	Patricio Beccaría:	Reacted to "siempre va antes del..." with 👍
+01:35:52	Marcos Javier Rover Genez:	Perdón, no se si no escuche o no lo dijo, cuando ponemos "p" (padding) el número que lo acompaña es en relación a "px" "%" "vh" o tiene alguna medida específica de Bootstrap?
+01:36:52	Andres Calafat:	Replying to "Perdón, no se si no ..."
+
+entiendo que es una medida especifica de bootstrap
+01:37:06	[Tutor] Lucas Ezequiel Silva:	Replying to "Perdón, no se si no ..."
+
+asi mismo, esta especificada en la documentación
+01:37:08	Joan Sebastian Vela Lozano:	Buenas noches, recién me pude conectar por si ya pasaron asistencia
+01:37:20	Marcos Javier Rover Genez:	Replying to "Perdón, no se si no ..." 
+
+ Perfecto, gracias!
+01:37:22	[Tutor] Lucas Ezequiel Silva:	Replying to "Perdón, no se si no ..."
+
+y es super intuitivo de entender
+01:37:29	Marcos Javier Rover Genez:	Reacted to "y es super intuitivo..." with 👍
+01:37:49	[Tutor] Lucas Ezequiel Silva:	Reacted to "Buenas noches, recié..." with 👍
+01:38:22	joaquincaretti:	es lo mismo? o es mejor alguno de los dos?
+01:39:07	[Tutor] Lucas Ezequiel Silva:	Replying to "es lo mismo? o es me..."
+
+cumplen el mismo objetivo
+01:39:33	Alan Bensi [TUTOR]:	A gusto y piaccere
+01:42:47	Marcos Javier Rover Genez:	Reacted to "A gusto y piaccere" with 😂
+01:43:59	Agustin Ubal:	Reacted to "A gusto y piaccere" with 😂
+01:45:42	Fabiana Coronel:	Chicos, perdón se me corto la luz, alguno me puede copiar el Word que paso la profe? gracias!!
+01:46:51	Fabiana Coronel:	Gracias!!
+01:47:51	Lucas Oñate:	Ingles va de la mano.
+01:49:31	[Tutora] Ángeles Maldonado:	Chicos, ojo la versión que este usando de Bootstrap. Ha pasado que usan diferente versiones y no les tome las clases.
+01:49:39	[Tutora] Ángeles Maldonado:	Ahora estamos usando la ultima versión!
+01:49:47	Alan Bensi [TUTOR]:	Eso, hay que adaptar Bootstrap a sus estilos
+01:49:52	Alan Bensi [TUTOR]:	No sus estilos a Bootstrap!
+01:50:01	Alan Bensi [TUTOR]:	Reacted to "Chicos, ojo la versi..." with ❤️
+01:50:07	[Tutora] Ángeles Maldonado:	Replying to "Ahora estamos usando..."
+
+5.3!
+01:50:13	Andres Calafat:	Reacted to "Eso, hay que adaptar..." with 👍
+01:50:44	Diego Gamboa:	en mi proyecto tengo varias paginas, debo poner el link de botstrap en cada una de ellas?
+01:51:06	Alan Bensi [TUTOR]:	En las que lo vayas a usar si
+01:51:10	[Tutora] Ángeles Maldonado:	Replying to "en mi proyecto tengo..."
+
+Si  vas usar en todas Bootstrap si
+01:51:30	Alan Bensi [TUTOR]:	Si usas el menú, alguna clase o elemento que se repita en todas las paginas lo pones
+01:51:32	Alan Bensi [TUTOR]:	Sino no
+01:51:40	Lucas Celse:	En la entrega si o si hay que usar Bootstrap? o puedo usar tailwind?
+01:51:44	Antonella Diaz:	disculpen, el proyecto o actividad donde puedo verla
+01:51:45	Antonella Diaz:	?
+01:52:28	Alan Bensi:	En la cursada vamos a trabajar con Bootstrap y vamos a pedir eso para las entregas Lucas!
+01:52:37	Alan Bensi:	Que proyecto Anto?
+01:52:43	Alan Bensi:	Me perdi
+01:52:51	Lucas Celse:	Replying to "En la cursada vamos ..."
+
+genial! gracias!
+01:52:58	Alan Bensi:	Reacted to "genial! gracias!" with ❤️
+01:53:29	Lucas Celse:	preguntaba por que en el contenido premium enseñaban tailwind también, pero genial!
+01:53:59	Antonella Diaz:	hay otra actividad para hacer, me dijeron que la pusieron en un zoom, pero yo  no la vi !!
+01:54:21	[Tutora] Ángeles Maldonado:	Replying to "En la entrega si o s..."
+
+Bootstrap! Es lo que pide en los requerimientos CoderHouse
+01:54:42	Alan Bensi:	Creo que me perdi algo Anto, no estoy seguro de eso!
+01:54:57	Lucas Oñate:	Va bien...
+01:55:00	Lucas Celse:	Reacted to "Bootstrap! Es lo que..." with ❤️
+01:56:27	Fabiana Coronel:	Vamos bien
+01:56:33	[Tutor] Lucas Ezequiel Silva:	Reacted to "Vamos bien" with 👌
+01:56:35	Pablo Moglia:	barbaro 💪
+01:56:43	Antonella Diaz:	Reacted to "Creo que me perdi al..." with 🤯
+01:57:51	Julieta Andrada:	Replying to "en mi proyecto tengo..."
+
+igual en las indicaciones de la pre entrega dice 2 paginas a elección puede ser?
+01:58:52	[Tutor] Lucas Ezequiel Silva:	Replying to "en mi proyecto tengo..."
+
+@Julieta Andrada A ver ahi corraboro y te digo
+01:59:03	[Tutor] Lucas Ezequiel Silva:	Reacted to "barbaro 💪" with 👌
+01:59:20	[Tutora] Ángeles Maldonado:	Replying to "en mi proyecto tengo..."
+
+Responsive es dos a elección
+01:59:53	[Tutora] Ángeles Maldonado:	Replying to "en mi proyecto tengo..."
+
+Elegir dos paginas para hacerlas responsive. No es entregar solo dos HTML. Ojo con eso! Suelen confundirse
+02:00:00	Patricio Beccaría:	Replying to "en mi proyecto tengo..."
+
+@[Tutora] Ángeles Maldonado pero el responsive podríamos hacerlo ahora con Bootstrap ?
+02:00:09	Julieta Andrada:	Replying to "en mi proyecto tengo..."
+
+ahhh perfecto! gracias
+02:00:35	[Tutora] Ángeles Maldonado:	Replying to "en mi proyecto tengo..."
+
+@Patricio Beccaría Tienen que aplicar algo de mediaqueries, para demostrar el uso de la herramienta
+02:00:53	Maria Cecilia Marcon:	Reacted to "@Patricio Beccaría T..." with 👍
+02:00:54	[Tutor] Lucas Ezequiel Silva:	Replying to "en mi proyecto tengo..."
+
+Claro, estaría bueno que apliques mediaqueries de css externo como venis aplicando css
+02:01:15	[Tutor] Lucas Ezequiel Silva:	Replying to "en mi proyecto tengo..."
+
+y luego si te sobra tiempo aplica con bootstrap para ir agarrándole mas la mano
+02:03:50	Lucas Oñate:	le podría poner el btn colorPropio tmb no? para que me quede del mismo color que el formulario
+02:05:23	[Tutor] Lucas Ezequiel Silva:	Replying to "le podría poner el b..."
+
+vos decis personalizar tu botón que no tenga un color predeterminado? si es asi por supuesto!
+02:05:24	Damian Marquez:	Replying to "en mi proyecto tengo..."
+
+Lo que yo hago diego es tener las secciones separadas, de header y footer y cuando cambio algo las pego en todas las demas paginas. Lo mismo con el script de bootstrap y del estilo, si lo agregas en tu cierre del main y en la creacion del head del html, es cuestion de copiar y pegarlo en las demas html que tengas cuando cambies
+02:05:52	Lucas Oñate:	Replying to "le podría poner el b..."
+
+Claro, agregas tu clase directamente buenisimo!
+02:05:55	Lucas Oñate:	Reacted to "vos decis personaliz..." with 👏🏻
+02:05:56	Alan Bensi:	Las clases de bootstrap NO SE TOCAN!!!
+02:06:05	Maria Cecilia Marcon:	Reacted to "Las clases de bootst..." with ❤️
+02:06:06	Fabiana Coronel:	Reacted to "Las clases de bootst..." with 😨
+02:06:16	Andres Calafat:	Reacted to "Las clases de bootst..." with 😨
+02:06:27	Alan Bensi:	Sino se cambia en todos los lugares donde querramos usar esa clase de Bootstrap y nos mandamos macanas
+02:06:39	Lucas Oñate:	Reacted to "Las clases de bootst..." with 👍🏻
+02:06:39	Fabiana Coronel:	Ok ok no se enojen ah
+02:07:13	Patricio Beccaría:	Replying to "Las clases de bootst..."
+
+pero como de algunos por ejemplo el button cambiamos el color? y era la class que venia ya. me mareé con eso
+02:07:16	[Tutor] Lucas Ezequiel Silva:	llego la hora de la asistencia
+02:07:30	Alan Bensi:	Replying to "Las clases de bootst..."
+
+Le agregas una clase propia y se lo modificas
+02:07:56	Maria Cecilia Marcon:	Replying to "Las clases de bootst..."
+
+me lo voy a tatuar! ja 😅
+02:08:04	Patricio Beccaría:	Reacted to "Le agregas una clase..." with 👍
+02:08:10	Alan Bensi:	Replying to "Las clases de bootst..."
+
+Ojo que hay clases de Bootstrap  que agregan important… En ese caso no usas esa clase de Bootstrap si la queres modificar jeje
+02:08:29	Alan Bensi:	Reacted to "me lo voy a tatuar! ..." with ❤️
+02:10:23	Aaron Nadelman:	Reacted to "llego la hora de la ..." with 👏
+02:16:20	Maria Cecilia Marcon:	Se me corto internet, ya volvi!! aviso por la asistencia
+02:17:23	Damian Marquez:	casi me infarto xD
+02:17:24	Mario Carreño:	sii
+02:17:25	Lucas Oñate:	Todo ok!
+02:17:37	Damian Marquez:	auriculares altos y mucho silencio :p
+02:17:39	RenéLlugdarPonce:	tamo
+02:18:02	Lucas Oñate:	🍔
+02:18:04	Lucas Oñate:	?
+02:18:16	[Tutor] Lucas Ezequiel Silva:	después le devolvemos(?)
+02:21:22	Damian Marquez:	aguante la 5.0 de burger :p
+02:23:13	Alan Bensi:	Esto que decía la profe es super importante, no es solo copiar y pegar el componente de bootstrap
+02:23:20	Alan Bensi:	Sino adaptarlo a nuestro codigo
+02:23:33	Alan Bensi:	(Ej en las img Bootstrap pone un alt ="..."
+02:23:46	Alan Bensi:	EEso lo tenemos que modificar a algo acorde a la img que le cargamos
+02:23:50	Fabiana Coronel:	Reacted to "Sino adaptarlo a nue..." with 👍🏼
+02:27:33	alejandro ziegler:	para una pagina estándar cuantos HTML son recomendados (estimados)?
+02:28:18	Alan Bensi [TUTOR]:	Depende de la cantidad de paginas que vayas a tener Ale... No hay un estandar
+02:28:33	Alan Bensi [TUTOR]:	Podes tener 50 como podes tener todo en 1 solo
+02:29:03	Alan Bensi [TUTOR]:	Depende del contenido y como trabajes la pagina (si es una landing o que)
+02:29:14	alejandro ziegler:	Replying to "Podes tener 50 como ..."
+
+ah gracias
+02:29:55	Alan Bensi [TUTOR]:	Reacted to "ah gracias" with ❤️
+02:30:22	Fabiana Coronel:	ko ok
+02:30:29	Maria Cecilia Marcon:	se podrian centrar los links de la nav no?
+02:30:38	Maria Cecilia Marcon:	usando text center?
+02:31:08	Alan Bensi [TUTOR]:	Debería ver la estructura Ce pero sino con flex se puede centrar tambien
+02:31:39	Alan Bensi [TUTOR]:	Acordate que text align (que es el estilo que aplica text center) es solo para textos
+02:31:47	Alan Bensi [TUTOR]:	Depende como esta la estructura
+02:32:04	[Tutor] Lucas Ezequiel Silva:	se alinea el contenido en la caja (todas las etiquetas son cajas hasta las de texto)
+02:32:16	Maria Cecilia Marcon:	Replying to "Acordate que text al..."
+
+Sisi, por eso me entro la duda
+02:34:05	Pablo Moglia:	en la page2 hay q pegar el script de cierre también de boostrap o no hace falta?
+02:34:49	Alan Bensi [TUTOR]:	Si usas Bootstrap si Pablo
+02:35:15	Pablo Moglia:	👌
+02:38:25	Lucas Oñate:	Esta muy bueno.
+02:38:51	joaquincaretti:	a la imagen le podemos dar cualquier tamaño?
+02:38:59	Alan Bensi [TUTOR]:	Si Joaco
+02:40:22	Alan Bensi [TUTOR]:	Parte FUNDAMENTAL
+02:40:36	Alan Bensi [TUTOR]:	Lo mas importante de Bootstrap diría... Atentis a esto
+02:43:12	joaquincaretti:	es como si fuera el grid?
+02:43:21	Alan Bensi [TUTOR]:	Exactamente Joaco
+02:43:26	Alan Bensi [TUTOR]:	Algo maso menos similar
+02:47:11	Fabiana Coronel:	Numeros enteros siempre no ?
+02:47:21	joaquincaretti:	en caso de que hagamos la pagina con grid no haría falta o no?
+02:47:21	Alan Bensi [TUTOR]:	Si Fabi
+02:47:42	joaquincaretti:	seria como para ahorrarnos eso
+02:47:43	Fabiana Coronel:	oki gracias
+02:47:51	Alan Bensi [TUTOR]:	Te va a facilitar mucho la tarea para el responsive Joaco
+02:47:53	Alan Bensi [TUTOR]:	Muchisimo
+02:48:23	Patricio Beccaría:	por que en el class solo le bartó con poner col-6 y no col-md-6 como indica el pwer?
+02:48:26	Alan Bensi [TUTOR]:	No estoy seguro si es obligatorio el uso de la grilla de Bootstrap para la 2da entrega... Habría que revisar las consignas
+02:48:44	Alan Bensi [TUTOR]:	Pero recomiendo fuertemente que lo usen, les va a solucionar y facilitar mucho el trabajo
+02:49:17	Alan Bensi [TUTOR]:	Con md aclaras que para el tamaño de Tablet (aprox=
+02:49:18	Fabiana Coronel:	evitamos grid? o aplicamos tmb para que se vea la practica?
+02:49:21	joaquincaretti:	pero en caso de que hayamos echo la pag con grid, si usamos el col-3-6 etc no se pisan entre si?
+02:49:23	Alan Bensi [TUTOR]:	Se comporte de x manera
+02:49:31	Patricio Beccaría:	Reacted to "Con md aclaras que p..." with 👍
+02:49:48	Mario Carreño:	cuando tenemos la 2da pre entrega?
+02:49:49	Alan Bensi [TUTOR]:	Lo que te resulte mas cómodo Fabi... No se si se pide en las consignas de la 2da entrega
+02:49:59	Fabiana Coronel:	Ah oki, chusmeo eso
+02:50:12	Fabiana Coronel:	Replying to "cuando tenemos la 2d..."
+
+el 4 se habilita
+02:50:21	Mario Carreño:	Replying to "cuando tenemos la 2d..."
+
+gracias!
+02:50:28	Alan Bensi [TUTOR]:	Pueden usarse en conjunto... Vos podes trabajar la estructura general con grid y dentro esto o viseversa
+02:50:34	Marcos Javier Rover Genez:	Replying to "Lo que te resulte ma..." 
+
+ Yo la repase y me parece que solo se pide le Bootstrap y subirlo al repositorio
+02:50:39	Alan Bensi [TUTOR]:	Pero si, terminarían haciendo lo mismo
+02:50:42	Fabiana Coronel:	Reacted to "gracias!" with 🤞🏼
+02:51:25	Patricio Beccaría:	Replying to "Ah oki, chusmeo eso"
+
+donde ves las consignas de la preentrega si todavía no fue dada de alta?
+02:51:50	Maria Cecilia Marcon:	Replying to "Ah oki, chusmeo eso"
+
+@Patricio Beccaría en el drive esta
+02:51:57	Alan Bensi [TUTOR]:	Replying to "Ah oki, chusmeo eso"
+
+Al final de la clase que se activa pato como en el caso de la primera entrega
+02:52:02	Julieta Andrada:	que medida seria el equivalente a mobile en Bootstrap ?
+02:52:08	[Tutora] Ángeles Maldonado:	Replying to "Ah oki, chusmeo eso"
+
+En el drive lo podes encontrar, igualmente abre la semana que viene!
+02:52:22	[Tutor] Lucas Ezequiel Silva:	Replying to "que medida seria el ..."
+
+xs y sm
+02:52:36	Julieta Andrada:	Replying to "que medida seria el ..."
+
+gracias!
+02:53:12	Patricio Beccaría:	Replying to "Ah oki, chusmeo eso"
+
+en qué drive? yo entro a la clase de hoy y solo me da el PowerPoint que está mostrando la profe.
+02:53:25	Damian Marquez:	asi se viene la 2 entrega me parece
+02:53:37	Lucas Oñate:	Reacted to "{127BF668-3EF1-4B9F-8B82-C633B73397C8}.png" with 😂
+02:53:38	[Tutor] Lucas Ezequiel Silva:	Reacted to "{127BF668-3EF1-4B9F-8B82-C633B73397C8}.png" with 🤣
+02:53:40	Alan Bensi [TUTOR]:	Reacted to "{127BF668-3EF1-4B9F-8B82-C633B73397C8}.png" with ❤️
+02:53:44	Fabiana Coronel:	jajajaja
+02:53:49	joaquincaretti:	Reacted to "{127BF668-3EF1-4B9F-8B82-C633B73397C8}.png" with 😂
+02:53:58	Andres Calafat:	Reacted to "{127BF668-3EF1-4B9F-8B82-C633B73397C8}.png" with 🤣
+02:54:01	Alan Bensi [TUTOR]:	Si vieran las millones y millones y recontra remil millones de paginas que están usando Bootstrap actualmente
+02:54:03	Alan Bensi [TUTOR]:	Jajajaja
+02:54:23	Alan Bensi [TUTOR]:	Por eso SIEMPRE hay que adecuar Bootstrap a nuestro diseño... Sino tenemos una paginita mas del monton
+02:54:36	Julieta Andrada:	juntos
+02:54:37	Marcos Javier Rover Genez:	Replying to "Ah oki, chusmeo eso" 
+
+ Ese carpeta que esta al lado de "clases"
+02:54:37	Maria Cecilia Marcon:	entonces la adaptabilidad como la aprendimos en css no?
+02:54:44	Damian Marquez:	Reacted to "Por eso SIEMPRE hay ..." with 🎉
+02:54:44	Marcos Javier Rover Genez:	Replying to "Ah oki, chusmeo eso" 
+
+ Ese es el drive gral.
+02:54:51	Andres Calafat:	Reacted to "Por eso SIEMPRE hay ..." with 🎉
+02:54:53	Fabiana Coronel:	tire magia profe por favor jajaja
+02:55:04	alejandro ziegler:	juntos por favor
+02:55:08	Gonzalo Ariel Acuña:	juntos profe
+02:55:09	Alan Bensi [TUTOR]:	Esto te va a facilitar mucho el trabajo Ce pero alguna cosita vas a tener que adecuar desde media querys
+02:55:13	Maria Cecilia Marcon:	entendido!
+02:55:28	Alan Bensi [TUTOR]:	Reacted to "entendido!" with ❤️
+02:55:49	Damian Marquez:	Replying to "Esto te va a facilit..."
+
+pero armando bien con grilla, bastante se puede hacer ya el diseño para que sea mobile responsive
+02:56:04	Damian Marquez:	Replying to "Esto te va a facilit..."
+
+eso creo yo xD
+02:56:41	Alan Bensi [TUTOR]:	Replying to "Esto te va a facilit..."
+
+EXACTAMENTE Dami! Esto si esta bien aplicado te va a ahorrar el 80% del trabajo
+02:56:51	Alan Bensi [TUTOR]:	Replying to "Esto te va a facilit..."
+
+Después quedan pavaditas por retocar desde media querys
+02:56:57	Damian Marquez:	Replying to "Esto te va a facilit..."
+
+💪
+02:57:04	Alan Bensi [TUTOR]:	Reacted to "💪" with ☺️
+02:57:29	Andres Calafat:	Reacted to "Después quedan pavad..." with ❤️
+02:57:44	Damian Marquez:	Replying to "Esto te va a facilit..."
+
+ya migre todo a bootstrap grilla yo xD acabo de armar mis 5 paginas xD
+02:57:50	Andres Calafat:	Replying to "Esto te va a facilit..."
+
+menos mal porque me estoy llevando medio mal con los media querys, por eso creo que me casare con bootstrap
+02:58:13	Damian Marquez:	Reacted to "menos mal porque me ..." with 💍
+02:58:23	[Tutor] Lucas Ezequiel Silva:	Replying to "Esto te va a facilit..."
+
+seguir una misma cosa es buena practica, ya sea bootstrap o css externo
+02:58:48	Alan Bensi [TUTOR]:	Reacted to "menos mal porque me ..." with ❤️
+02:58:52	joaquincaretti:	Replying to "Esto te va a facilit..."
+
+click derecho css/delete
+02:58:58	Damian Marquez:	Reacted to "click derecho css/de..." with 😂
+02:59:09	Alan Bensi [TUTOR]:	Reacted to "seguir una misma cos..." with ❤️
+03:00:42	[Tutora] Ángeles Maldonado:	Solo espero que no se olviden de css
+03:00:45	[Tutora] Ángeles Maldonado:	Por favor
+03:00:50	joaquincaretti:	me surgio una duda, los celulares nuevos como el zflip, que resolución se usaría?
+03:01:45	Alan Bensi [TUTOR]:	Vos deberías garantizar que la pagina se vea bien desde 320 px (casi no existen celulares tan chiquititos hoy en dia) hasta 500 px que seria un tamaño de celu bastante grande
+03:01:49	Alan Bensi [TUTOR]:	Como para redondear digamos
+03:01:54	Alan Bensi [TUTOR]:	Reacted to "Solo espero que no s..." with ❤️
+03:02:11	joaquincaretti:	Reacted to "Vos deberías garanti..." with 👍
+03:02:24	Damian Marquez:	Reacted to "Solo espero que no s..." with 😂
+03:03:11	[Tutor] Lucas Ezequiel Silva:	Como dice alan y luego con respecto al alto la primer pantalla normalmente suelen ser 100vh
+03:03:18	[Tutor] Lucas Ezequiel Silva:	ya sea un Nokia 1100 o un flip
+03:03:28	[Tutor] Lucas Ezequiel Silva:	mas que nada por convención no digo que todas seana si
+03:03:36	joaquincaretti:	Reacted to "Como dice alan y lue..." with 👍
+03:05:39	Damian Marquez:	Replying to "Solo espero que no s..."
+
+yo estuve viendo muchas cosas con css, animaciones y efectos que la verdad son increibles.Estoy viendo mucho este canal puntualmente: https://www.youtube.com/@OnlineTutorialsYT/videos
+03:06:07	[Tutora] Ángeles Maldonado:	Replying to "me surgio una duda, ..."
+
+En el navegador tenes las opciones para ir probando los tamaños
+03:06:07	Maria Cecilia Marcon:	Reacted to "yo estuve viendo muc..." with 👍
+03:06:11	joaquincaretti:	me salvo la vida el carrousel
+03:06:17	[Tutora] Ángeles Maldonado:	Replying to "me surgio una duda, ..."
+
+tenes celulares de distintas marcas
+03:06:29	joaquincaretti:	Reacted to "tenes celulares de d..." with 👍
+03:06:38	Andres Calafat:	Lo que estaba esperando desde que vi el h1 Carrousel
+03:08:28	Facundo Riquelme:	Replying to "Solo espero que no s..."
+
+me da cosa empezar a usar solo boostrap y olvidarme todo css 😭
+03:08:46	Lucas Oñate:	me quedo gigante
+03:10:09	joaquincaretti:	hermoso
+03:11:06	Andres Calafat:	y yo haciendo un carrousel de puro html y peleando con porcentajes y movimientos XD
+03:11:20	Rene Llugdar:	😂
+03:11:53	Diego Gamboa:	Esto es bomba!!!
+03:12:01	Alan Bensi [TUTOR]:	Reacted to "Esto es bomba!!!" with ❤️
+03:12:03	Alan Bensi [TUTOR]:	Reacted to "y yo haciendo un car..." with 😂
+03:12:18	joaquincaretti:	perro primo
+03:12:47	Alan Bensi [TUTOR]:	Chusmeen a fondo Bootstrap que aca en la clase llegamos a ver un 50% pero hay un montón de elementos mas increibles
+03:13:02	Fabiana Coronel:	Reacted to "Chusmeen a fondo Boo..." with 🤞🏼
+03:13:04	Alan Bensi [TUTOR]:	Que les van a venir excelentes para armar paginas geniales!
+03:13:10	[Tutor] Lucas Ezequiel Silva:	Reacted to "perro primo" with 🤣
+03:13:32	Alan Bensi [TUTOR]:	Fijense lo que les decía de los alt en los componentes de bootstrap
+03:13:36	Alan Bensi [TUTOR]:	LOS ALT!!!!!!
+03:13:40	Facundo Riquelme:	Reacted to "Fijense lo que les d..." with 👍
+03:13:44	Alan Bensi [TUTOR]:	Ponganle un alt significativo
+03:14:00	Lucas Oñate:	ese 👓
+03:14:09	joaquincaretti:	alguna pag para adaptar tamaño de img gratis?
+03:14:21	Damian Marquez:	Reacted to "Chusmeen a fondo Boo..." with 💪
+03:14:32	Alan Bensi [TUTOR]:	Nono obvio profe, yo para que lo recuerden
+03:14:34	Diego Gamboa:	no entendí como dejar todas las imágenes del mismo tamaño, con un graficador?
+03:14:46	joaquincaretti:	Reacted to "no entendí como deja..." with 👍
+03:14:55	joaquincaretti:	Replying to "no entendí como deja..."
+
+sii, ya las subis con un mismo tamaño
+03:14:59	Alan Bensi [TUTOR]:	Joaco yo que soy un queso con herramientas de diseño, si necesito si o si cambiar el tamaño de alguna img lo hago con canva
+03:15:10	Lucas Oñate:	todos haciendo las paginas de nuevo a bootstrap
+03:15:16	Alan Bensi [TUTOR]:	Pero tiene que ser muy imprescindible... Sino juego con los tamaños desde el codigo
+03:15:19	joaquincaretti:	Reacted to "todos haciendo las p..." with 👍
+03:15:24	Greta Fiorito:	Hay alguna forma de ponerle un pie de pagina que sea distinto para cada foto??
+03:15:27	Fabiana Coronel:	ah desde la carpeta, antes de codear y todo ya deben tener7 el tamaño ok?
+03:15:33	Rene Llugdar:	Reacted to "todos haciendo las p..." with 👍
+03:15:39	joaquincaretti:	Replying to "Hay alguna forma de ..."
+
+hay una opción en la pag de bootstrap
+03:15:46	Greta Fiorito:	Reacted to "hay una opción en la..." with 👍
+03:15:50	joaquincaretti:	Reacted to "Joaco yo que soy un ..." with 👍
+03:15:55	Alan Bensi [TUTOR]:	Si Greta! Fijate en los carruseles de Bootstrap que hay otras opciones que muestran la opción de poner un texto dentro
+03:15:57	Fabiana Coronel:	ok profe, perfecto
+03:16:17	Greta Fiorito:	Reacted to "Si Greta! Fijate en ..." with 👍
+03:16:52	Fabiana Coronel:	ajajajaj
+03:17:16	joaquincaretti:	👍
+03:17:48	Eric Dati:	Buenisima la clase de hoy, muchas cosas utiles
+03:18:07	Alan Bensi [TUTOR]:	Vengan con pilas las próximas clases que vamos a tratar de ponerle la misma onda que la profe (tarea dificilísima jeje) 😁
+03:18:09	Tadeo Carobbio:	profe quisiera saber por que hay gente con 16 valoraciones en la pagina
+03:18:31	Alan Bensi [TUTOR]:	😁
+03:18:38	Maria Cecilia Marcon:	Reacted to "Vengan con pilas las..." with ❤️
+03:18:44	Alan Bensi [TUTOR]:	No lloren antes de tiempo que después vuelve la profe jajajaja
+03:18:45	sotelo juan:	feliz vacaciones
+03:18:50	Eric Dati:	Nos vemos profe, felices vacaciones
+03:18:54	Fabiana Coronel:	4744brlo vamos a volver loco pobre alAN
+03:18:55	Tomas Gualtieri:	chauu
+03:18:58	Juliàn Muriel:	gracias profe !!
