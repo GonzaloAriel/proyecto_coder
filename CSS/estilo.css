@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .container {
@@ -129,7 +130,6 @@ main {
 
 .img_guardian {
     width: 240px;
-    border-radius: 10px;
 }
 
 p {
@@ -164,11 +164,10 @@ section {
 aside {
     grid-area: aside;
     background-color: rgb(103, 93, 252);
-
 }
 
 .boton {
-    padding-left: 55px;
+    padding-left: 80px;
     padding-top: 20px;
 }
 
@@ -184,7 +183,7 @@ aside {
 .div_registro {}
 
 .img_registro {
-    width: 180px;
+    width: 400px;
     border-radius: px;
 }
 
@@ -277,7 +276,10 @@ aside {
     }
 
     nav .ul_header {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        padding-right: 110px;
+        padding-bottom: 50px;
         position: fixed;
         top: 70px;
         left: -200%;
@@ -313,8 +315,6 @@ aside {
         left: 0;
         transition: all .25s;
     }
-
-
 
     header {
         display: flex;
@@ -360,26 +360,33 @@ aside {
         display: flex;
         padding-top: 250px;
         padding-bottom: 250px;
-        flex-direction: column-reverse;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin-bottom: 20px;
     }
 
     .div_guardian {
         padding-right: 20px;
     }
+    /*********** Section ******************/
+    .sec_mobile{
+        padding: 0;
+    }
+    .giff{
+        width: 500px;
+    }
+    
 
     /*********** ASIDE Y ASIDE2 360 ******************/
 
     aside {
         grid-area: aside;
         background-color: rgb(103, 93, 252);
-        padding-top: 10px;
-        margin-top: 20px;
     }
     .aside_560{
-        margin: auto;
-        padding: auto;
+       padding: 0%;
+       margin: 0%;
     }
 
     .boton {
@@ -389,10 +396,11 @@ aside {
     .aside2_560{
         grid-area: aside2;
         background-color: rgb(103, 93, 252);
-        margin-top: 20px;
+        margin: 0%;
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 0%;
         }
         .img_registro{
             width: 300px;
@@ -401,7 +409,7 @@ aside {
     .div_registro {}
 
     .img_registro {
-        width: 180px;
+        width: 420px;
         border-radius: px;
     }
 
@@ -414,6 +422,7 @@ aside {
     .footer-nav{
         display: flex;
         justify-content: center;
+        padding: 0%;
     }
     .copyright{
        padding-bottom: 90px;
