@@ -1,0 +1,76 @@
+/*********** ASIDE Y ASIDE2 ******************/
+
+aside {
+    grid-area: aside;
+    background-color: rgb(103, 93, 252);
+}
+
+.boton {
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.aside2 {
+    grid-area: aside2;
+    background-color: rgb(103, 93, 252);
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.div_registro {}
+
+.img_registro {
+    width: 400px;
+    border-radius: px;
+}
+
+.color_texto {
+    color: black;
+    padding-bottom: 10px;
+}
+
+/*********** Footer-Menu-Marcas-copyright ********/
+
+.footer-nav {
+    grid-area: footer;
+    background-color: hwb(232 0% 75%);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.copyright {
+    justify-content: center;
+    align-items: center;
+}
+
+.derechos {
+    display: flex;
+    font-size: medium;
+    color: hsl(228, 100%, 60%);
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.footer_redes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ul_footer {
+    align-items: end;
+}
+
+.item_footer {
+    list-style: none;
+    padding: 5px;
+}
+
+.a_footer {
+    text-decoration: none;
+}

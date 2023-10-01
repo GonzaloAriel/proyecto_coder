@@ -1,0 +1,24 @@
+/***************** MAIN ****************/
+
+main {
+    display: flex;
+    grid-area: main;
+    background-color: hwb(233 7% 26%);
+    align-items: center;
+    justify-content: left;
+    margin: auto;
+}
+
+.div_guardian {
+    padding-left: 20px;
+}
+
+.img_guardian {
+    width: 240px;
+}
+
+p {
+    text-align: center;
+    color: #fefefe;
+    padding: 1rem;
+}
