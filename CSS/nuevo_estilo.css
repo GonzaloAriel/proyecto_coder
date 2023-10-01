@@ -7,54 +7,48 @@
 }
 
 /************* Header-Nav-Redes ****************/
-.logo {
+body .container header {
+  grid-area: header;
+}
+body .container header .logo {
   width: 251px;
   display: flex;
   align-items: center;
 }
-
-nav {
+body .container nav {
+  grid-area: nav;
   display: flex;
 }
-
-.ul_header {
+body .container nav .ul_header {
   list-style: none;
   display: flex;
   margin: 0 auto;
   align-items: center;
   padding: 1rem;
 }
-
-.a_header {
+body .container nav .ul_header .a_header {
   color: hsl(228, 100%, 60%);
   text-decoration: none;
   padding: 1rem;
 }
-
-.a_header:hover {
+body .container nav .ul_header .a_header:hover {
   background-color: hsl(0, 2%, 9%);
   color: #fefefe;
 }
-
-.tam {
-  width: 100%;
-  height: 30vh;
+body .container .redes {
+  display: flex;
 }
-
-.header_estilo {
+body .container .redes .icon_red {
+  padding: 10px;
+}
+body .container .header_estilo {
   background-color: hwb(232 0% 75%);
   margin-bottom: 20px;
 }
-
-header {
-  grid-area: header;
+body .container #check {
+  display: none;
 }
-
-nav {
-  grid-area: nav;
-}
-
-.menu_icon img {
+body .container label .menu_icon img {
   width: 50px;
   height: 50px;
   border-radius: 2px;
@@ -63,6 +57,11 @@ nav {
 .menu_icon,
 #check {
   display: none;
+}
+
+.tam {
+  width: 100%;
+  height: 30vh;
 }
 
 .redes {
