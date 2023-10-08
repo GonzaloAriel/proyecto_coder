@@ -4,11 +4,9 @@ body {
     .container {
         header {
             grid-area: header;
-
             .logo {
                 width: 251px;
-                display: flex;
-                align-items: center;
+                @include centrar;
             }
         }
 
@@ -22,11 +20,12 @@ body {
                 margin: 0 auto;
                 align-items: center;
                 padding: 1rem;
+                padding-left: 90px;
 
                 .item_header {}
 
                 .a_header {
-                    color: hsl(228, 100%, 60%);
+                    color: $azul_fuentes;
                     text-decoration: none;
                     padding: 1rem;
 
@@ -40,15 +39,14 @@ body {
 
         .redes {
             display: flex;
-
-            .icon_red {
-                padding: 10px;
+            .fab {
+                padding: 5px;
             }
         }
 
-        
+
         .header_estilo {
-            background-color: hwb(232 0% 75%);
+            background-color: $azul_marino_base;
             margin-bottom: 20px;
         }
 
@@ -88,18 +86,9 @@ body {
     height: 30vh;
 }
 
-
-
-
-
-
-
-
-
 .redes {
     grid-area: redes;
-    display: flex;
-    justify-content: center;
+    @include centrar;
     align-items: center;
     padding-bottom: 10px;
     padding-right: 30px;
@@ -109,16 +98,15 @@ body {
 
 .header_gaming {
     grid-area: gaming;
-    display: flex;
+    @include centrar;
     flex-direction: row;
-    justify-content: center;
-    background-color: rgb(103, 93, 252);
+    background-color: $lila_gaming;
     padding-top: 5px;
     margin-bottom: 20px;
 }
 
 .img_game {
-    background-color: rgb(103, 93, 252);
+    background-color: $lila_gaming;
     height: 100px;
     padding: 15px;
 

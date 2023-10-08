@@ -2,7 +2,7 @@
 
 aside {
     grid-area: aside;
-    background-color: rgb(103, 93, 252);
+    background-color: $lila_gaming;
 }
 
 .boton {
@@ -12,10 +12,9 @@ aside {
 
 .aside2 {
     grid-area: aside2;
-    background-color: rgb(103, 93, 252);
+    background-color: $lila_gaming;
     margin-top: 20px;
-    display: flex;
-    justify-content: center;
+    @include centrar;
     padding-top: 20px;
 }
 
@@ -35,7 +34,7 @@ aside {
 
 .footer-nav {
     grid-area: footer;
-    background-color: hwb(232 0% 75%);
+    background-color: $azul_marino_base;
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
@@ -48,17 +47,15 @@ aside {
 }
 
 .derechos {
-    display: flex;
+    @include centrar;
     font-size: medium;
-    color: hsl(228, 100%, 60%);
-    justify-content: center;
+    color: $azul_fuentes;
     padding-top: 100px;
 }
 
 .footer_redes {
-    display: flex;
+    @include centrar;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
 }
 

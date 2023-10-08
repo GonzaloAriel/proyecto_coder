@@ -62,13 +62,13 @@
     }
 
     .a_header {
-        color: hsl(228, 100%, 60%);
+        color: $azul_fuentes;
         text-decoration: none;
         padding: 5px;
     }
 
     .a_header:hover {
-        background-color: hsl(228, 100%, 60%);
+        background-color: $azul_fuentes;
         color: #fefefe;
         padding: 5px;
     }
@@ -79,13 +79,17 @@
     }
 
     header {
-        display: flex;
-        justify-content: center;
+        @include centrar;
         padding-bottom: 20px;
     }
 
-    .redes {
+    .red_mobile {
         justify-content: left;
+        padding-top: 10px;
+    }
+
+    .fab{
+        padding: 1px;
     }
 
     .header_estilo {
@@ -103,70 +107,72 @@
 
     .header_gaming {
         grid-area: gaming;
-        display: flex;
+        @include centrar;
         flex-direction: row;
-        justify-content: center;
-        background-color: rgb(103, 93, 252);
+        background-color: $lila_gaming;
         padding-top: 5px;
         margin-bottom: 20px;
     }
 
     .img_game {
-        background-color: rgb(103, 93, 252);
+        background-color: $lila_gaming;
         height: 70px;
         padding: 15px;
     }
 
     /*********** Main ******************/
     .tam {
-        display: flex;
+        @include centrar;
         padding-top: 250px;
         padding-bottom: 250px;
         flex-direction: column;
-        justify-content: center;
         align-items: center;
         margin-bottom: 20px;
+        height: 400px;
     }
 
     .div_guardian {
         padding-right: 20px;
     }
+
     /*********** Section ******************/
-    .sec_mobile{
+    .sec_mobile {
         padding: 0;
     }
-    .giff{
-        width: 500px;
+
+    .giff {
+        width: 200vh;
     }
-    
+
 
     /*********** ASIDE Y ASIDE2 360 ******************/
 
     aside {
         grid-area: aside;
-        background-color: rgb(103, 93, 252);
+        background-color: $lila_gaming;
     }
-    .aside_560{
-       padding: 0%;
-       margin: 0%;
+
+    .aside_560 {
+        padding: 0%;
+        margin: 0%;
     }
 
     .boton {
-       padding-right: 50px;
+        padding-right: 90px;
     }
 
-    .aside2_560{
+    .aside2_560 {
         grid-area: aside2;
-        background-color: rgb(103, 93, 252);
+        background-color: $lila_gaming;
         margin: 0%;
-        display: flex;
-        justify-content: center;
+        @include centrar;
         align-items: center;
         padding: 0%;
-        }
-        .img_registro{
-            width: 300px;
-        }
+    }
+
+    .img_registro {
+        width: 300px;
+    }
 
     .div_registro {}
 
@@ -181,15 +187,16 @@
     }
 
     /********** Footer-Menu-Marcas-copyright 360******/
-    .footer-nav{
-        display: flex;
-        justify-content: center;
+    .footer-nav {
+        @include centrar;
         padding: 0%;
     }
-    .copyright{
-       padding-bottom: 90px;
+
+    .copy_560 {
+        padding-bottom: 90px;
     }
-    .derechos{
+
+    .derechos {
         font-size: x-large;
     }
 
@@ -198,7 +205,7 @@
     }
 
     .ul_footer {
-       display: none;
+        display: none;
     }
 
     .a_footer {
