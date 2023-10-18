@@ -120,7 +120,7 @@ main {
 }
 
 .img_guardian {
-  width: 240px;
+  width: 400px;
 }
 
 p {
@@ -129,19 +129,21 @@ p {
   padding: 1rem;
 }
 
+.download {
+  padding-left: 200px;
+}
+
 /***************** SECTION ****************/
 section {
   grid-area: section;
   background-color: hwb(233 7% 26%);
+  background-image: url(/img/nuevo_protocol.jpg);
+  background-size: cover;
+  background-position: center center;
   margin-top: 20px;
   display: flex;
   align-items: center;
   justify-content: right;
-}
-
-.download {
-  padding-right: 30px;
-  padding-left: 20px;
 }
 
 .video {
@@ -331,6 +333,10 @@ aside {
   .div_guardian {
     padding-right: 20px;
   }
+  .download {
+    margin: auto;
+    padding-right: 200px;
+  }
   /*********** Section ******************/
   .sec_mobile {
     padding: 0;
@@ -338,7 +344,7 @@ aside {
   .giff {
     width: 200vh;
   }
-  /*********** ASIDE Y ASIDE2 360 ******************/
+  /*********** ASIDE Y ASIDE2 560 ******************/
   aside {
     grid-area: aside;
     background-color: rgb(103, 93, 252);
@@ -370,7 +376,7 @@ aside {
     color: black;
     padding-bottom: 10px;
   }
-  /********** Footer-Menu-Marcas-copyright 360******/
+  /********** Footer-Menu-Marcas-copyright 560******/
   .footer-nav {
     display: flex;
     justify-content: center;
@@ -391,7 +397,79 @@ aside {
   .a_footer {
     display: none;
   }
+  /************** Noticias 560***************/
+  .noticias {
+    flex-direction: column;
+  }
+  .tarjeta {
+    margin: 0 auto;
+    padding: auto;
+  }
+  .tarjeta .contenido {
+    padding: 15px;
+    text-align: center;
+  }
+  .noticias .tarjeta figure img {
+    width: 50%;
+  }
 }
+.noticias {
+  width: 100%;
+  display: flex;
+  max-width: 2000px;
+}
+
+.tarjeta {
+  width: 200%;
+  margin: 20px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #e2c14a;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+  cursor: default;
+  transition: all 400ms ease;
+}
+
+.tarjeta:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+  transform: translateY(-3%);
+}
+
+.tarjeta img {
+  width: 100%;
+}
+
+.tarjeta .contenido {
+  padding: 15px;
+  text-align: center;
+}
+
+.tarjeta, .contenido p {
+  line-height: 1.5;
+  color: rgb(0, 0, 0);
+}
+
+.tarjeta .contenido h3 {
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.tarjeta .contenido a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  color: blue;
+  border: 1px solid cornflowerblue;
+  border-radius: 4px;
+  transition: all 400ms ease;
+}
+
+.tarjeta .contenido a:hover {
+  background: cornflowerblue;
+  color: #fff;
+}
+
 /*********** PAGE DESCARGA ******************/
 
 /*# sourceMappingURL=nuevo_estilo.css.map */
