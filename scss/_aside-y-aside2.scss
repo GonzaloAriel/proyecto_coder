@@ -6,7 +6,7 @@ aside {
 }
 
 .boton {
-    padding-left: 80px;
+    padding-left: 50px;
     padding-top: 20px;
 }
 
@@ -17,9 +17,9 @@ aside {
     @include centrar;
     padding-top: 20px;
 }
-
-.div_registro {}
-
+.registro_btn{
+    padding-left: 100px;
+}
 .img_registro {
     width: 400px;
     border-radius: px;

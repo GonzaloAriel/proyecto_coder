@@ -137,7 +137,7 @@ p {
 section {
   grid-area: section;
   background-color: hwb(233 7% 26%);
-  background-image: url(/img/nuevo_protocol.jpg);
+  background-image: url(../img/nuevo_protocol.jpg);
   background-size: cover;
   background-position: center center;
   margin-top: 20px;
@@ -158,7 +158,7 @@ aside {
 }
 
 .boton {
-  padding-left: 80px;
+  padding-left: 50px;
   padding-top: 20px;
 }
 
@@ -169,6 +169,10 @@ aside {
   display: flex;
   justify-content: center;
   padding-top: 20px;
+}
+
+.registro_btn {
+  padding-left: 100px;
 }
 
 .img_registro {
@@ -354,7 +358,7 @@ aside {
     margin: 0%;
   }
   .boton {
-    padding-right: 90px;
+    padding-right: 50px;
   }
   .aside2_560 {
     grid-area: aside2;
@@ -365,8 +369,8 @@ aside {
     align-items: center;
     padding: 0%;
   }
-  .img_registro {
-    width: 300px;
+  .registro_btn {
+    padding-left: 10px;
   }
   .img_registro {
     width: 420px;
