@@ -146,9 +146,8 @@ section {
   justify-content: right;
 }
 
-.video {
-  padding-top: 5px;
-  padding-right: 50px;
+.aside_noti {
+  background-image: url(../img/YEHs.gif);
 }
 
 /*********** ASIDE Y ASIDE2 ******************/
@@ -417,10 +416,6 @@ aside {
     width: 50%;
   }
 }
-.aside_noti {
-  background-image: url(../img/YEHs.gif);
-}
-
 /*********** PAGE DESCARGA ******************/
 
 /*# sourceMappingURL=nuevo_estilo.css.map */
